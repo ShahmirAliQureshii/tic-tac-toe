@@ -29,10 +29,10 @@ A simple yet stylish web-based **Tic Tac Toe** game made with **HTML**, **CSS**,
 ## 📂 Project Structure
 
 📁 TicTacToe/
-├── img/
-│ └── tictactoeSS.png
-├── index.html # Main HTML file
-├── style.css # Styling with gradients and layout
+├── img/ <br/>
+│ └── tictactoeSS.png <br/>
+├── index.html # Main HTML file <br/>
+├── style.css # Styling with gradients and layout <br/>
 └── script.js # Game logic and interaction
 
 
@@ -60,6 +60,6 @@ Use Reset Game or New Game to play again.
 
 
 <p align="center"> 📌 <a href="https://tictactoewebb.netlify.app">👉 Click here to play</a> </p>
-🧑‍💻 Author
+## 🧑‍💻 Author
 Made with ❤️ by Shahmir Ali Qureshi
 Feel free to fork, improve, or share feedback!
